@@ -3,7 +3,7 @@
 -  Suzano/SP
 -  Aprendendo muito Front-End
 -  @Gabriel_Galvanine
-- Gosto muito de futebol 
+  
 
 <!---
 Gabriel-Galvanine/Gabriel-Galvanine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
